@@ -4,6 +4,7 @@
 [![pipeline status](https://src.ipp.kfa-juelich.de/it/peerpub/badges/development/pipeline.svg)](https://src.ipp.kfa-juelich.de/it/peerpub/commits/development)
 [![coverage report](https://src.ipp.kfa-juelich.de/it/peerpub/badges/development/coverage.svg)](https://src.ipp.kfa-juelich.de/it/peerpub/commits/development)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpeerpub%2Fpeerpub.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpeerpub%2Fpeerpub?ref=badge_shield)
 
 
 This software can be used for internal peer review clearance processes of
@@ -72,3 +73,6 @@ This could be especially usefull while testing and developing view templates.
 4. After changing code, assets or other, just let your IDE rebuild the project
 5. For even more comfort, install the [LiveReload extension](http://livereload.com/extensions) for your browser.
    It will auto-refresh the page after the rebuild happened.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpeerpub%2Fpeerpub.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpeerpub%2Fpeerpub?ref=badge_large)
